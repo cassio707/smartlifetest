@@ -1,0 +1,22 @@
+@media all and (msax-width:768px) {
+    .header_menu{
+        display: flex;
+    }
+    .header_icon_item-user{
+        display: none;
+    }
+    .header_icon_item-dark{
+        display: none;
+    }
+    .header_icon_item-dropdown {
+        display: none;
+    }
+    .header_logo{
+        width: 60%;
+        justify-content: center;
+    }
+    .header_icon{
+        width: 20%;
+    }
+}
+
